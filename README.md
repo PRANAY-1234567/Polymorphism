@@ -36,3 +36,6 @@ Plaintext
 Woof!
 Meow!
 Squawk!
+
+<img width="608" height="754" alt="image" src="https://github.com/user-attachments/assets/12309a1d-ccb2-41aa-b54f-56ee7f3f3c56" />
+
