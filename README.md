@@ -20,6 +20,7 @@ class Parrot:
 # Polymorphism in action
 for pet in [Dog(), Cat(), Parrot()]:
     print(pet.make_sound())
+    
 🚀 How it Works
 Shared Interface: Each class has a method named make_sound().
 
