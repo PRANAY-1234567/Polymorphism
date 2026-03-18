@@ -3,6 +3,7 @@
 Polymorphism is a core concept in Object-Oriented Programming (OOP). It allows different classes to be treated as instances of the same class through the same interface. In this code, Dog, Cat, and Parrot all implement a make_sound() method, allowing us to iterate through them and call the same function name regardless of the animal type.
 
 💻 Code Snippet
+
 Python
 class Dog:
     def make_sound(self):
